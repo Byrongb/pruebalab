@@ -17,3 +17,4 @@ btn_cerrar.addEventListener("click", cerra_ventana);
 function cancelar_tarea() {
     document.querySelector(".texto").value = "";
 }
+
